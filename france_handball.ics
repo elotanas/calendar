@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendrier Equipes de France Handball//FR
+X-WR-CALNAME:France Handball (M & F)
+BEGIN:VEVENT
+SUMMARY:[France (F)] France vs Poland
+DTSTART;TZID=Europe/Paris:20261205T180000
+DTEND;TZID=Europe/Paris:20261205T200000
+DESCRIPTION:Compétition : EHF Euro\, Women\, Group E\nDonnées fournies p
+ ar HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (F)] France vs Faroe Islands
+DTSTART;TZID=Europe/Paris:20261207T203000
+DTEND;TZID=Europe/Paris:20261207T223000
+DESCRIPTION:Compétition : EHF Euro\, Women\, Group E\nDonnées fournies p
+ ar HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (F)] Ukraine vs France
+DTSTART;TZID=Europe/Paris:20261209T203000
+DTEND;TZID=Europe/Paris:20261209T223000
+DESCRIPTION:Compétition : EHF Euro\, Women\, Group E\nDonnées fournies p
+ ar HandballAPI.
+END:VEVENT
+END:VCALENDAR

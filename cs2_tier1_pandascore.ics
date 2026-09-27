@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendrier CS2 Tier 1//FR
+X-WR-CALNAME:CS2 - Matchs Tier 1
+BEGIN:VEVENT
+SUMMARY:[1win Private Club #1] GamerLegion vs 3DMAX | Playoffs
+DTSTART;TZID=Europe/Paris:20260927T140000
+DTEND;TZID=Europe/Paris:20260927T170000
+DESCRIPTION:Compétition : 1win Private Club #1\nÉtape : Playoffs\nFormat
+  : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[iBUYPOWER Masters FML] Liquid vs Wildcard | Playoffs
+DTSTART;TZID=Europe/Paris:20260927T233000
+DTEND;TZID=Europe/Paris:20260928T023000
+DESCRIPTION:Compétition : iBUYPOWER Masters FML\nÉtape : Playoffs\nForma
+ t : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stake Ranked Episode 4] Astralis vs Alliance | Playoffs
+DTSTART;TZID=Europe/Paris:20261001T170000
+DTEND;TZID=Europe/Paris:20261001T200000
+DESCRIPTION:Compétition : Stake Ranked Episode 4\nÉtape : Playoffs\nForm
+ at : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stake Ranked Episode 4] FaZe vs Nemiga | Playoffs
+DTSTART;TZID=Europe/Paris:20261001T193000
+DTEND;TZID=Europe/Paris:20261001T223000
+DESCRIPTION:Compétition : Stake Ranked Episode 4\nÉtape : Playoffs\nForm
+ at : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ESL Pro League] Vitality vs 1WIN | Group Stage
+DTSTART;TZID=Europe/Paris:20261003T110000
+DTEND;TZID=Europe/Paris:20261003T140000
+DESCRIPTION:Compétition : ESL Pro League\nÉtape : Group Stage\nFormat : 
+ BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ESL Pro League] Spirit vs ShindeN | Group Stage
+DTSTART;TZID=Europe/Paris:20261003T110000
+DTEND;TZID=Europe/Paris:20261003T140000
+DESCRIPTION:Compétition : ESL Pro League\nÉtape : Group Stage\nFormat : 
+ BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ESL Pro League] MOUZ vs M80 | Group Stage
+DTSTART;TZID=Europe/Paris:20261003T133000
+DTEND;TZID=Europe/Paris:20261003T163000
+DESCRIPTION:Compétition : ESL Pro League\nÉtape : Group Stage\nFormat : 
+ BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ESL Pro League] G2 vs Natus Vincere | Group Stage
+DTSTART;TZID=Europe/Paris:20261003T183000
+DTEND;TZID=Europe/Paris:20261003T213000
+DESCRIPTION:Compétition : ESL Pro League\nÉtape : Group Stage\nFormat : 
+ BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ESL Pro League] Aurora Gaming vs 9z | Group Stage
+DTSTART;TZID=Europe/Paris:20261003T183000
+DTEND;TZID=Europe/Paris:20261003T213000
+DESCRIPTION:Compétition : ESL Pro League\nÉtape : Group Stage\nFormat : 
+ BO3\nDonnées : PandaScore
+END:VEVENT
+END:VCALENDAR
