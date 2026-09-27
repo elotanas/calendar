@@ -28,7 +28,7 @@ jobs:
         run: |
           python agenda_cs2.py
           python agenda_rl.py
-          python agenda.py 
+          python agenda_hb.py 
 
       - name: Sauvegarder les nouveaux ICS sur GitHub
         run: |
