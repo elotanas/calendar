@@ -3,6 +3,180 @@ VERSION:2.0
 PRODID:-//Calendrier Equipes de France Handball//FR
 X-WR-CALNAME:France Handball (M & F)
 BEGIN:VEVENT
+SUMMARY:[France (M)] ThSV Eisenach vs TVB 1898 Stuttgart
+DTSTART;TZID=Europe/Paris:20261001T190000
+DTEND;TZID=Europe/Paris:20261001T210000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] TVB 1898 Stuttgart vs TBV Lemgo
+DTSTART;TZID=Europe/Paris:20261004T163000
+DTEND;TZID=Europe/Paris:20261004T183000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] TVB 1898 Stuttgart vs HSG Wetzlar
+DTSTART;TZID=Europe/Paris:20261008T190000
+DTEND;TZID=Europe/Paris:20261008T210000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] SC Magdeburg vs TVB 1898 Stuttgart
+DTSTART;TZID=Europe/Paris:20261018T180000
+DTEND;TZID=Europe/Paris:20261018T200000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] TVB 1898 Stuttgart vs SG Bietigheim-Metterzimmern
+DTSTART;TZID=Europe/Paris:20261022T190000
+DTEND;TZID=Europe/Paris:20261022T210000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] THW Kiel vs TVB 1898 Stuttgart
+DTSTART;TZID=Europe/Paris:20261031T190000
+DTEND;TZID=Europe/Paris:20261031T210000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] TSV Hannover Burgdorf vs TVB 1898 Stuttgart
+DTSTART;TZID=Europe/Paris:20261120T190000
+DTEND;TZID=Europe/Paris:20261120T210000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] TVB 1898 Stuttgart vs SG Flensburg Handewitt
+DTSTART;TZID=Europe/Paris:20261129T150000
+DTEND;TZID=Europe/Paris:20261129T170000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] TVB 1898 Stuttgart vs Frisch Auf Göppingen
+DTSTART;TZID=Europe/Paris:20261203T190000
+DTEND;TZID=Europe/Paris:20261203T210000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] Rhein Neckar Löwen vs TVB 1898 Stuttgart
+DTSTART;TZID=Europe/Paris:20261206T160000
+DTEND;TZID=Europe/Paris:20261206T180000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] VfL Gummersbach vs TVB 1898 Stuttgart
+DTSTART;TZID=Europe/Paris:20261213T180000
+DTEND;TZID=Europe/Paris:20261213T200000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] TVB 1898 Stuttgart vs HC Erlangen
+DTSTART;TZID=Europe/Paris:20261220T163000
+DTEND;TZID=Europe/Paris:20261220T183000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] TVB 1898 Stuttgart vs HBW Balingen/Weilstetten
+DTSTART;TZID=Europe/Paris:20261223T200000
+DTEND;TZID=Europe/Paris:20261223T220000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] SG Bietigheim-Metterzimmern vs TVB 1898 Stuttgart
+DTSTART;TZID=Europe/Paris:20270211T180000
+DTEND;TZID=Europe/Paris:20270211T200000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] TVB 1898 Stuttgart vs VfL Gummersbach
+DTSTART;TZID=Europe/Paris:20270218T180000
+DTEND;TZID=Europe/Paris:20270218T200000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] SG Flensburg Handewitt vs TVB 1898 Stuttgart
+DTSTART;TZID=Europe/Paris:20270225T180000
+DTEND;TZID=Europe/Paris:20270225T200000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] TVB 1898 Stuttgart vs TSV Hannover Burgdorf
+DTSTART;TZID=Europe/Paris:20270304T180000
+DTEND;TZID=Europe/Paris:20270304T200000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] Frisch Auf Göppingen vs TVB 1898 Stuttgart
+DTSTART;TZID=Europe/Paris:20270318T180000
+DTEND;TZID=Europe/Paris:20270318T200000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] TVB 1898 Stuttgart vs THW Kiel
+DTSTART;TZID=Europe/Paris:20270325T180000
+DTEND;TZID=Europe/Paris:20270325T200000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] TBV Lemgo vs TVB 1898 Stuttgart
+DTSTART;TZID=Europe/Paris:20270401T180000
+DTEND;TZID=Europe/Paris:20270401T200000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] HC Erlangen vs TVB 1898 Stuttgart
+DTSTART;TZID=Europe/Paris:20270415T180000
+DTEND;TZID=Europe/Paris:20270415T200000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] TVB 1898 Stuttgart vs Handball Club Hamburg
+DTSTART;TZID=Europe/Paris:20270422T180000
+DTEND;TZID=Europe/Paris:20270422T200000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] HSG Wetzlar vs TVB 1898 Stuttgart
+DTSTART;TZID=Europe/Paris:20270429T180000
+DTEND;TZID=Europe/Paris:20270429T200000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] TVB 1898 Stuttgart vs SC Magdeburg
+DTSTART;TZID=Europe/Paris:20270513T180000
+DTEND;TZID=Europe/Paris:20270513T200000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] TVB 1898 Stuttgart vs Rhein Neckar Löwen
+DTSTART;TZID=Europe/Paris:20270516T180000
+DTEND;TZID=Europe/Paris:20270516T200000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] TVB 1898 Stuttgart vs MT Melsungen
+DTSTART;TZID=Europe/Paris:20270526T180000
+DTEND;TZID=Europe/Paris:20270526T200000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] Bergischer HC vs TVB 1898 Stuttgart
+DTSTART;TZID=Europe/Paris:20270529T180000
+DTEND;TZID=Europe/Paris:20270529T200000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] TVB 1898 Stuttgart vs ThSV Eisenach
+DTSTART;TZID=Europe/Paris:20270602T180000
+DTEND;TZID=Europe/Paris:20270602T200000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[France (M)] Füchse Berlin vs TVB 1898 Stuttgart
+DTSTART;TZID=Europe/Paris:20270606T180000
+DTEND;TZID=Europe/Paris:20270606T200000
+DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[France (F)] France vs Poland
 DTSTART;TZID=Europe/Paris:20261205T180000
 DTEND;TZID=Europe/Paris:20261205T200000

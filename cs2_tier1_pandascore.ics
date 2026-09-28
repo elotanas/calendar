@@ -3,20 +3,6 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[1win Private Club #1] GamerLegion vs 3DMAX | Playoffs
-DTSTART;TZID=Europe/Paris:20260927T140000
-DTEND;TZID=Europe/Paris:20260927T170000
-DESCRIPTION:Compétition : 1win Private Club #1\nÉtape : Playoffs\nFormat
-  : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[iBUYPOWER Masters FML] Liquid vs Wildcard | Playoffs
-DTSTART;TZID=Europe/Paris:20260927T233000
-DTEND;TZID=Europe/Paris:20260928T023000
-DESCRIPTION:Compétition : iBUYPOWER Masters FML\nÉtape : Playoffs\nForma
- t : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Stake Ranked Episode 4] Astralis vs Alliance | Playoffs
 DTSTART;TZID=Europe/Paris:20261001T170000
 DTEND;TZID=Europe/Paris:20261001T200000
