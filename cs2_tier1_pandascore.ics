@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[CIS LAN Championship] CYBERSHOKE Esports vs CRUISER AURORA | Grou
- p C
-DTSTART;TZID=Europe/Paris:20260930T170000
-DTEND;TZID=Europe/Paris:20260930T200000
-DESCRIPTION:Compétition : CIS LAN Championship\nÉtape : Group C\nFormat 
- : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Stake Ranked Episode 4] Astralis vs Alliance | Playoffs
 DTSTART;TZID=Europe/Paris:20261001T170000
 DTEND;TZID=Europe/Paris:20261001T200000
