@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[Stake Ranked Episode 4] FaZe vs Astralis | Playoffs
-DTSTART;TZID=Europe/Paris:20261002T143000
-DTEND;TZID=Europe/Paris:20261002T173000
+SUMMARY:[Stake Ranked Episode 4] Astralis vs BIG | Playoffs
+DTSTART;TZID=Europe/Paris:20261003T120000
+DTEND;TZID=Europe/Paris:20261003T150000
 DESCRIPTION:Compétition : Stake Ranked Episode 4\nÉtape : Playoffs\nForm
  at : BO3\nDonnées : PandaScore
 END:VEVENT
