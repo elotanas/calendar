@@ -3,51 +3,30 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[European Pro League Regular] MOUZ NXT vs SINQU Rehti | Group B
-DTSTART;TZID=Europe/Paris:20261004T123000
-DTEND;TZID=Europe/Paris:20261004T153000
-DESCRIPTION:Compétition : European Pro League Regular\nÉtape : Group B\n
- Format : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ESL Pro League] Team Falcons vs Aurora Gaming | Group Stage
-DTSTART;TZID=Europe/Paris:20261004T133000
-DTEND;TZID=Europe/Paris:20261004T163000
+SUMMARY:[ESL Pro League] 9z vs Natus Vincere | Group Stage
+DTSTART;TZID=Europe/Paris:20261005T141000
+DTEND;TZID=Europe/Paris:20261005T171000
 DESCRIPTION:Compétition : ESL Pro League\nÉtape : Group Stage\nFormat : 
  BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ESL Pro League] 9z vs TYLOO | Group Stage
-DTSTART;TZID=Europe/Paris:20261004T133000
-DTEND;TZID=Europe/Paris:20261004T163000
+SUMMARY:[ESL Pro League] Spirit vs MOUZ | Group Stage
+DTSTART;TZID=Europe/Paris:20261005T160000
+DTEND;TZID=Europe/Paris:20261005T190000
 DESCRIPTION:Compétition : ESL Pro League\nÉtape : Group Stage\nFormat : 
  BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Stake Ranked Episode 4] Luminosity vs Astralis | Playoffs
-DTSTART;TZID=Europe/Paris:20261004T140000
-DTEND;TZID=Europe/Paris:20261004T170000
-DESCRIPTION:Compétition : Stake Ranked Episode 4\nÉtape : Playoffs\nForm
- at : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ESL Pro League] FURIA vs MOUZ | Group Stage
-DTSTART;TZID=Europe/Paris:20261004T160000
-DTEND;TZID=Europe/Paris:20261004T190000
+SUMMARY:[ESL Pro League] Vitality vs Team Falcons | Group Stage
+DTSTART;TZID=Europe/Paris:20261005T183000
+DTEND;TZID=Europe/Paris:20261005T213000
 DESCRIPTION:Compétition : ESL Pro League\nÉtape : Group Stage\nFormat : 
  BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ESL Pro League] G2 vs 1WIN | Group Stage
-DTSTART;TZID=Europe/Paris:20261004T160000
-DTEND;TZID=Europe/Paris:20261004T190000
-DESCRIPTION:Compétition : ESL Pro League\nÉtape : Group Stage\nFormat : 
- BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ESL Pro League] Vitality vs Natus Vincere | Group Stage
-DTSTART;TZID=Europe/Paris:20261004T183000
-DTEND;TZID=Europe/Paris:20261004T213000
+SUMMARY:[ESL Pro League] Aurora Gaming vs BetBoom Team | Group Stage
+DTSTART;TZID=Europe/Paris:20261005T183000
+DTEND;TZID=Europe/Paris:20261005T213000
 DESCRIPTION:Compétition : ESL Pro League\nÉtape : Group Stage\nFormat : 
  BO3\nDonnées : PandaScore
 END:VEVENT
@@ -57,5 +36,12 @@ DTSTART;TZID=Europe/Paris:20261005T190000
 DTEND;TZID=Europe/Paris:20261005T220000
 DESCRIPTION:Compétition : NODWIN Clutch Series\nÉtape : Play-In Group B
  \nFormat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[European Pro League Regular] ROUNDS vs MOUZ NXT | Group B
+DTSTART;TZID=Europe/Paris:20261008T123000
+DTEND;TZID=Europe/Paris:20261008T153000
+DESCRIPTION:Compétition : European Pro League Regular\nÉtape : Group B\n
+ Format : BO3\nDonnées : PandaScore
 END:VEVENT
 END:VCALENDAR
