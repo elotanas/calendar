@@ -3,39 +3,46 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[ESL Pro League] 9z vs Natus Vincere | Group Stage
-DTSTART;TZID=Europe/Paris:20261005T141000
-DTEND;TZID=Europe/Paris:20261005T171000
+SUMMARY:[ESL Pro League] Spirit vs 1WIN | Group Stage
+DTSTART;TZID=Europe/Paris:20261006T140000
+DTEND;TZID=Europe/Paris:20261006T170000
 DESCRIPTION:Compétition : ESL Pro League\nÉtape : Group Stage\nFormat : 
  BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ESL Pro League] Spirit vs MOUZ | Group Stage
-DTSTART;TZID=Europe/Paris:20261005T160000
-DTEND;TZID=Europe/Paris:20261005T190000
+SUMMARY:[ESL Pro League] G2 vs PARIVISION | Group Stage
+DTSTART;TZID=Europe/Paris:20261006T140000
+DTEND;TZID=Europe/Paris:20261006T170000
 DESCRIPTION:Compétition : ESL Pro League\nÉtape : Group Stage\nFormat : 
  BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ESL Pro League] Vitality vs Team Falcons | Group Stage
-DTSTART;TZID=Europe/Paris:20261005T183000
-DTEND;TZID=Europe/Paris:20261005T213000
+SUMMARY:[ESL Pro League] 9z vs BetBoom Team | Group Stage
+DTSTART;TZID=Europe/Paris:20261006T163000
+DTEND;TZID=Europe/Paris:20261006T193000
 DESCRIPTION:Compétition : ESL Pro League\nÉtape : Group Stage\nFormat : 
  BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ESL Pro League] Aurora Gaming vs BetBoom Team | Group Stage
-DTSTART;TZID=Europe/Paris:20261005T183000
-DTEND;TZID=Europe/Paris:20261005T213000
+SUMMARY:[ESL Pro League] FURIA vs Aurora Gaming | Group Stage
+DTSTART;TZID=Europe/Paris:20261006T163000
+DTEND;TZID=Europe/Paris:20261006T193000
 DESCRIPTION:Compétition : ESL Pro League\nÉtape : Group Stage\nFormat : 
  BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[NODWIN Clutch Series] Gothic vs MOUZ NXT | Play-In Group B
-DTSTART;TZID=Europe/Paris:20261005T190000
-DTEND;TZID=Europe/Paris:20261005T220000
+SUMMARY:[NODWIN Clutch Series] LPH Gaming vs MOUZ NXT | Play-In Group B
+DTSTART;TZID=Europe/Paris:20261006T190000
+DTEND;TZID=Europe/Paris:20261006T220000
 DESCRIPTION:Compétition : NODWIN Clutch Series\nÉtape : Play-In Group B
  \nFormat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ESL Pro League] Team Falcons vs Natus Vincere | Group Stage
+DTSTART;TZID=Europe/Paris:20261006T190000
+DTEND;TZID=Europe/Paris:20261006T220000
+DESCRIPTION:Compétition : ESL Pro League\nÉtape : Group Stage\nFormat : 
+ BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[European Pro League Regular] ROUNDS vs MOUZ NXT | Group B
@@ -43,5 +50,26 @@ DTSTART;TZID=Europe/Paris:20261008T123000
 DTEND;TZID=Europe/Paris:20261008T153000
 DESCRIPTION:Compétition : European Pro League Regular\nÉtape : Group B\n
  Format : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stake Pulse Beat III] Liquid vs BBL | Group B
+DTSTART;TZID=Europe/Paris:20261013T120000
+DTEND;TZID=Europe/Paris:20261013T150000
+DESCRIPTION:Compétition : Stake Pulse Beat III\nÉtape : Group B\nFormat 
+ : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stake Pulse Beat III] Astralis vs Sashi Esport | Group C
+DTSTART;TZID=Europe/Paris:20261014T120000
+DTEND;TZID=Europe/Paris:20261014T150000
+DESCRIPTION:Compétition : Stake Pulse Beat III\nÉtape : Group C\nFormat 
+ : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stake Pulse Beat III] Heroic vs Envy | Group D
+DTSTART;TZID=Europe/Paris:20261015T120000
+DTEND;TZID=Europe/Paris:20261015T150000
+DESCRIPTION:Compétition : Stake Pulse Beat III\nÉtape : Group D\nFormat 
+ : BO3\nDonnées : PandaScore
 END:VEVENT
 END:VCALENDAR
