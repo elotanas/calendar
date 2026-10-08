@@ -3,39 +3,39 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[ESL Pro League] FURIA vs 9z | Group Stage
-DTSTART;TZID=Europe/Paris:20261007T140000
-DTEND;TZID=Europe/Paris:20261007T170000
-DESCRIPTION:Compétition : ESL Pro League\nÉtape : Group Stage\nFormat : 
- BO3\nDonnées : PandaScore
+SUMMARY:[ESEA Advanced Europe] Spirit HU vs TEAM GELO | Regular Season
+DTSTART;TZID=Europe/Paris:20261008T203000
+DTEND;TZID=Europe/Paris:20261008T220000
+DESCRIPTION:Compétition : ESEA Advanced Europe\nÉtape : Regular Season\n
+ Format : BO1\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ESL Challenger League Europe Cup #8] ENCE vs MOUZ NXT | Group D
-DTSTART;TZID=Europe/Paris:20261007T150000
-DTEND;TZID=Europe/Paris:20261007T180000
-DESCRIPTION:Compétition : ESL Challenger League Europe Cup #8\nÉtape : G
- roup D\nFormat : BO3\nDonnées : PandaScore
+SUMMARY:[ESL Pro League] 1WIN vs Aurora Gaming | Playoffs
+DTSTART;TZID=Europe/Paris:20261009T103000
+DTEND;TZID=Europe/Paris:20261009T133000
+DESCRIPTION:Compétition : ESL Pro League\nÉtape : Playoffs\nFormat : BO3
+ \nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ESL Pro League] PARIVISION vs Natus Vincere | Group Stage
-DTSTART;TZID=Europe/Paris:20261007T163000
-DTEND;TZID=Europe/Paris:20261007T193000
-DESCRIPTION:Compétition : ESL Pro League\nÉtape : Group Stage\nFormat : 
- BO3\nDonnées : PandaScore
+SUMMARY:[ESL Pro League] Vitality vs PARIVISION | Playoffs
+DTSTART;TZID=Europe/Paris:20261009T130000
+DTEND;TZID=Europe/Paris:20261009T160000
+DESCRIPTION:Compétition : ESL Pro League\nÉtape : Playoffs\nFormat : BO3
+ \nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ESL Pro League] Spirit vs M80 | Group Stage
-DTSTART;TZID=Europe/Paris:20261007T190000
-DTEND;TZID=Europe/Paris:20261007T220000
-DESCRIPTION:Compétition : ESL Pro League\nÉtape : Group Stage\nFormat : 
- BO3\nDonnées : PandaScore
+SUMMARY:[ESL Pro League] FURIA vs MOUZ | Playoffs
+DTSTART;TZID=Europe/Paris:20261009T153000
+DTEND;TZID=Europe/Paris:20261009T183000
+DESCRIPTION:Compétition : ESL Pro League\nÉtape : Playoffs\nFormat : BO3
+ \nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[European Pro League Regular] ROUNDS vs MOUZ NXT | Group B
-DTSTART;TZID=Europe/Paris:20261008T123000
-DTEND;TZID=Europe/Paris:20261008T153000
-DESCRIPTION:Compétition : European Pro League Regular\nÉtape : Group B\n
- Format : BO3\nDonnées : PandaScore
+SUMMARY:[ESL Pro League] Team Falcons vs Spirit | Playoffs
+DTSTART;TZID=Europe/Paris:20261009T180000
+DTEND;TZID=Europe/Paris:20261009T210000
+DESCRIPTION:Compétition : ESL Pro League\nÉtape : Playoffs\nFormat : BO3
+ \nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[European Pro League Regular] VP.Future 3 vs EAC Extra | Group D
