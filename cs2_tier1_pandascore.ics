@@ -3,25 +3,26 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[ESEA Advanced Europe] Spirit HU vs TEAM GELO | Regular Season
-DTSTART;TZID=Europe/Paris:20261008T203000
-DTEND;TZID=Europe/Paris:20261008T220000
-DESCRIPTION:Compétition : ESEA Advanced Europe\nÉtape : Regular Season\n
- Format : BO1\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ESL Pro League] 1WIN vs Aurora Gaming | Playoffs
-DTSTART;TZID=Europe/Paris:20261009T103000
-DTEND;TZID=Europe/Paris:20261009T133000
-DESCRIPTION:Compétition : ESL Pro League\nÉtape : Playoffs\nFormat : BO3
- \nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[ESL Pro League] Vitality vs PARIVISION | Playoffs
-DTSTART;TZID=Europe/Paris:20261009T130000
-DTEND;TZID=Europe/Paris:20261009T160000
+DTSTART;TZID=Europe/Paris:20261009T133000
+DTEND;TZID=Europe/Paris:20261009T163000
 DESCRIPTION:Compétition : ESL Pro League\nÉtape : Playoffs\nFormat : BO3
  \nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ESL Challenger League Europe Cup #8] Saint Sinners vs MOUZ NXT | 
+ Playoffs
+DTSTART;TZID=Europe/Paris:20261009T150000
+DTEND;TZID=Europe/Paris:20261009T180000
+DESCRIPTION:Compétition : ESL Challenger League Europe Cup #8\nÉtape : P
+ layoffs\nFormat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Roman Imperium Cup] FaZe vs PURE | Playoffs
+DTSTART;TZID=Europe/Paris:20261009T153000
+DTEND;TZID=Europe/Paris:20261009T183000
+DESCRIPTION:Compétition : Roman Imperium Cup\nÉtape : Playoffs\nFormat :
+  BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ESL Pro League] FURIA vs MOUZ | Playoffs
@@ -42,6 +43,13 @@ SUMMARY:[European Pro League Regular] VP.Future 3 vs EAC Extra | Group D
 DTSTART;TZID=Europe/Paris:20261010T123000
 DTEND;TZID=Europe/Paris:20261010T153000
 DESCRIPTION:Compétition : European Pro League Regular\nÉtape : Group D\n
+ Format : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[European Pro League Regular] Sökerorg vs MOUZ NXT | Group B
+DTSTART;TZID=Europe/Paris:20261012T123000
+DTEND;TZID=Europe/Paris:20261012T153000
+DESCRIPTION:Compétition : European Pro League Regular\nÉtape : Group B\n
  Format : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
