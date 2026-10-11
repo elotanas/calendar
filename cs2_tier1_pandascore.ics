@@ -3,24 +3,33 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[European Pro League Regular] VP.Future 3 vs EAC Extra | Group D
-DTSTART;TZID=Europe/Paris:20261010T123000
-DTEND;TZID=Europe/Paris:20261010T153000
+SUMMARY:[European Pro League Regular] TheChampionGG vs VP.Future 3 | Group
+  D
+DTSTART;TZID=Europe/Paris:20261011T123000
+DTEND;TZID=Europe/Paris:20261011T153000
 DESCRIPTION:Compétition : European Pro League Regular\nÉtape : Group D\n
  Format : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ESL Pro League] Aurora Gaming vs Vitality | Playoffs
-DTSTART;TZID=Europe/Paris:20261010T154500
-DTEND;TZID=Europe/Paris:20261010T184500
+SUMMARY:[ESL Pro League] Aurora Gaming vs Spirit | Playoffs
+DTSTART;TZID=Europe/Paris:20261011T133000
+DTEND;TZID=Europe/Paris:20261011T163000
 DESCRIPTION:Compétition : ESL Pro League\nÉtape : Playoffs\nFormat : BO3
  \nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ESL Pro League] MOUZ vs Spirit | Playoffs
-DTSTART;TZID=Europe/Paris:20261010T190000
-DTEND;TZID=Europe/Paris:20261010T220000
-DESCRIPTION:Compétition : ESL Pro League\nÉtape : Playoffs\nFormat : BO3
+SUMMARY:[Stake Ranked Episode 6: Open Qualifier] MASONIC vs Aurora Young B
+ lood | Playoffs
+DTSTART;TZID=Europe/Paris:20261011T160000
+DTEND;TZID=Europe/Paris:20261011T190000
+DESCRIPTION:Compétition : Stake Ranked Episode 6: Open Qualifier\nÉtape 
+ : Playoffs\nFormat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ESL Pro League] Vitality vs MOUZ | Playoffs
+DTSTART;TZID=Europe/Paris:20261011T170000
+DTEND;TZID=Europe/Paris:20261011T220000
+DESCRIPTION:Compétition : ESL Pro League\nÉtape : Playoffs\nFormat : BO5
  \nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
@@ -38,6 +47,13 @@ DESCRIPTION:Compétition : Stake Pulse Beat III\nÉtape : Group B\nFormat
  : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Thunderpick World Championship] 9z vs Aurora Gaming | Group A
+DTSTART;TZID=Europe/Paris:20261014T103000
+DTEND;TZID=Europe/Paris:20261014T133000
+DESCRIPTION:Compétition : Thunderpick World Championship\nÉtape : Group 
+ A\nFormat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Stake Pulse Beat III] Astralis vs Sashi Esport | Group C
 DTSTART;TZID=Europe/Paris:20261014T120000
 DTEND;TZID=Europe/Paris:20261014T150000
@@ -50,5 +66,26 @@ DTSTART;TZID=Europe/Paris:20261015T120000
 DTEND;TZID=Europe/Paris:20261015T150000
 DESCRIPTION:Compétition : Stake Pulse Beat III\nÉtape : Group D\nFormat 
  : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[GLuck Yungstar Series #3] JUMBO TEAM vs VP.Future | Playoffs
+DTSTART;TZID=Europe/Paris:20261016T090000
+DTEND;TZID=Europe/Paris:20261016T120000
+DESCRIPTION:Compétition : GLuck Yungstar Series #3\nÉtape : Playoffs\nFo
+ rmat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[GLuck Yungstar Series #3] Young TigeRES vs Young27 | Playoffs
+DTSTART;TZID=Europe/Paris:20261016T150000
+DTEND;TZID=Europe/Paris:20261016T180000
+DESCRIPTION:Compétition : GLuck Yungstar Series #3\nÉtape : Playoffs\nFo
+ rmat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[DraculaN] Sashi Esport vs MOUZ NXT | Group C
+DTSTART;TZID=Europe/Paris:20261019T124500
+DTEND;TZID=Europe/Paris:20261019T141500
+DESCRIPTION:Compétition : DraculaN\nÉtape : Group C\nFormat : BO1\nDonn
+ ées : PandaScore
 END:VEVENT
 END:VCALENDAR
