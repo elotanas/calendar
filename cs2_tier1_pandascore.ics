@@ -3,39 +3,9 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[European Pro League Regular] TheChampionGG vs VP.Future 3 | Group
-  D
-DTSTART;TZID=Europe/Paris:20261011T123000
-DTEND;TZID=Europe/Paris:20261011T153000
-DESCRIPTION:Compétition : European Pro League Regular\nÉtape : Group D\n
- Format : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ESL Pro League] Aurora Gaming vs Spirit | Playoffs
-DTSTART;TZID=Europe/Paris:20261011T133000
-DTEND;TZID=Europe/Paris:20261011T163000
-DESCRIPTION:Compétition : ESL Pro League\nÉtape : Playoffs\nFormat : BO3
- \nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Stake Ranked Episode 6: Open Qualifier] MASONIC vs Aurora Young B
- lood | Playoffs
-DTSTART;TZID=Europe/Paris:20261011T160000
-DTEND;TZID=Europe/Paris:20261011T190000
-DESCRIPTION:Compétition : Stake Ranked Episode 6: Open Qualifier\nÉtape 
- : Playoffs\nFormat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ESL Pro League] Vitality vs MOUZ | Playoffs
-DTSTART;TZID=Europe/Paris:20261011T170000
-DTEND;TZID=Europe/Paris:20261011T220000
-DESCRIPTION:Compétition : ESL Pro League\nÉtape : Playoffs\nFormat : BO5
- \nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[European Pro League Regular] Sökerorg vs MOUZ NXT | Group B
-DTSTART;TZID=Europe/Paris:20261012T123000
-DTEND;TZID=Europe/Paris:20261012T153000
+DTSTART;TZID=Europe/Paris:20261012T133000
+DTEND;TZID=Europe/Paris:20261012T163000
 DESCRIPTION:Compétition : European Pro League Regular\nÉtape : Group B\n
  Format : BO3\nDonnées : PandaScore
 END:VEVENT
