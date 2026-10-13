@@ -3,20 +3,6 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[European Pro League Regular] Sökerorg vs MOUZ NXT | Group B
-DTSTART;TZID=Europe/Paris:20261012T133000
-DTEND;TZID=Europe/Paris:20261012T163000
-DESCRIPTION:Compétition : European Pro League Regular\nÉtape : Group B\n
- Format : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Stake Pulse Beat III] Liquid vs BBL | Group B
-DTSTART;TZID=Europe/Paris:20261013T120000
-DTEND;TZID=Europe/Paris:20261013T150000
-DESCRIPTION:Compétition : Stake Pulse Beat III\nÉtape : Group B\nFormat 
- : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Thunderpick World Championship] 9z vs Aurora Gaming | Group A
 DTSTART;TZID=Europe/Paris:20261014T103000
 DTEND;TZID=Europe/Paris:20261014T133000
@@ -57,5 +43,12 @@ DTSTART;TZID=Europe/Paris:20261019T124500
 DTEND;TZID=Europe/Paris:20261019T141500
 DESCRIPTION:Compétition : DraculaN\nÉtape : Group C\nFormat : BO1\nDonn
  ées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1win Private Club #2] fnatic vs Liquid | Playoffs
+DTSTART;TZID=Europe/Paris:20261019T170000
+DTEND;TZID=Europe/Paris:20261019T200000
+DESCRIPTION:Compétition : 1win Private Club #2\nÉtape : Playoffs\nFormat
+  : BO3\nDonnées : PandaScore
 END:VEVENT
 END:VCALENDAR
