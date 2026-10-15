@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[Stake Pulse Beat III] Astralis vs Sashi Esport | Group C
-DTSTART;TZID=Europe/Paris:20261014T120000
-DTEND;TZID=Europe/Paris:20261014T150000
-DESCRIPTION:Compétition : Stake Pulse Beat III\nÉtape : Group C\nFormat 
- : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Stake Pulse Beat III] Heroic vs Envy | Group D
 DTSTART;TZID=Europe/Paris:20261015T120000
 DTEND;TZID=Europe/Paris:20261015T150000
 DESCRIPTION:Compétition : Stake Pulse Beat III\nÉtape : Group D\nFormat 
  : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Thunderpick World Championship] 9z vs Team Falcons | Group A
+DTSTART;TZID=Europe/Paris:20261015T130000
+DTEND;TZID=Europe/Paris:20261015T160000
+DESCRIPTION:Compétition : Thunderpick World Championship\nÉtape : Group 
+ A\nFormat : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[GLuck Yungstar Series #3] JUMBO TEAM vs VP.Future | Playoffs
