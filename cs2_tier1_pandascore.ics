@@ -3,25 +3,11 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[Stake Pulse Beat III] Heroic vs Envy | Group D
-DTSTART;TZID=Europe/Paris:20261015T120000
-DTEND;TZID=Europe/Paris:20261015T150000
-DESCRIPTION:Compétition : Stake Pulse Beat III\nÉtape : Group D\nFormat 
- : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Thunderpick World Championship] 9z vs Team Falcons | Group A
-DTSTART;TZID=Europe/Paris:20261015T130000
-DTEND;TZID=Europe/Paris:20261015T160000
-DESCRIPTION:Compétition : Thunderpick World Championship\nÉtape : Group 
- A\nFormat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[GLuck Yungstar Series #3] JUMBO TEAM vs VP.Future | Playoffs
-DTSTART;TZID=Europe/Paris:20261016T090000
-DTEND;TZID=Europe/Paris:20261016T120000
-DESCRIPTION:Compétition : GLuck Yungstar Series #3\nÉtape : Playoffs\nFo
- rmat : BO3\nDonnées : PandaScore
+SUMMARY:[Stake Pulse Beat III] fnatic vs Heroic | Playoffs
+DTSTART;TZID=Europe/Paris:20261016T130000
+DTEND;TZID=Europe/Paris:20261016T160000
+DESCRIPTION:Compétition : Stake Pulse Beat III\nÉtape : Playoffs\nFormat
+  : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[GLuck Yungstar Series #3] Young TigeRES vs Young27 | Playoffs
@@ -29,6 +15,20 @@ DTSTART;TZID=Europe/Paris:20261016T150000
 DTEND;TZID=Europe/Paris:20261016T180000
 DESCRIPTION:Compétition : GLuck Yungstar Series #3\nÉtape : Playoffs\nFo
  rmat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Thunderpick World Championship] Aurora Gaming vs 9z | Group A
+DTSTART;TZID=Europe/Paris:20261016T160000
+DTEND;TZID=Europe/Paris:20261016T190000
+DESCRIPTION:Compétition : Thunderpick World Championship\nÉtape : Group 
+ A\nFormat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stake Pulse Beat III] Astralis vs MIBR | Playoffs
+DTSTART;TZID=Europe/Paris:20261016T160000
+DTEND;TZID=Europe/Paris:20261016T190000
+DESCRIPTION:Compétition : Stake Pulse Beat III\nÉtape : Playoffs\nFormat
+  : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[DraculaN] Sashi Esport vs MOUZ NXT | Group C
@@ -43,5 +43,12 @@ DTSTART;TZID=Europe/Paris:20261019T170000
 DTEND;TZID=Europe/Paris:20261019T200000
 DESCRIPTION:Compétition : 1win Private Club #2\nÉtape : Playoffs\nFormat
   : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stake Ranked Episode 5] Astralis vs fnatic | Playoffs
+DTSTART;TZID=Europe/Paris:20261027T170000
+DTEND;TZID=Europe/Paris:20261027T200000
+DESCRIPTION:Compétition : Stake Ranked Episode 5\nÉtape : Playoffs\nForm
+ at : BO3\nDonnées : PandaScore
 END:VEVENT
 END:VCALENDAR
