@@ -3,32 +3,18 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[Stake Pulse Beat III] fnatic vs Heroic | Playoffs
-DTSTART;TZID=Europe/Paris:20261016T130000
-DTEND;TZID=Europe/Paris:20261016T160000
-DESCRIPTION:Compétition : Stake Pulse Beat III\nÉtape : Playoffs\nFormat
-  : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[GLuck Yungstar Series #3] Young TigeRES vs Young27 | Playoffs
-DTSTART;TZID=Europe/Paris:20261016T150000
-DTEND;TZID=Europe/Paris:20261016T180000
+SUMMARY:[GLuck Yungstar Series #3] VP.Future vs Black Phoenix | Playoffs
+DTSTART;TZID=Europe/Paris:20261017T110000
+DTEND;TZID=Europe/Paris:20261017T140000
 DESCRIPTION:Compétition : GLuck Yungstar Series #3\nÉtape : Playoffs\nFo
  rmat : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Thunderpick World Championship] Aurora Gaming vs 9z | Group A
-DTSTART;TZID=Europe/Paris:20261016T160000
-DTEND;TZID=Europe/Paris:20261016T190000
-DESCRIPTION:Compétition : Thunderpick World Championship\nÉtape : Group 
- A\nFormat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Stake Pulse Beat III] Astralis vs MIBR | Playoffs
-DTSTART;TZID=Europe/Paris:20261016T160000
-DTEND;TZID=Europe/Paris:20261016T190000
-DESCRIPTION:Compétition : Stake Pulse Beat III\nÉtape : Playoffs\nFormat
-  : BO3\nDonnées : PandaScore
+SUMMARY:[Thunderpick World Championship] FURIA vs Aurora Gaming | Playoffs
+DTSTART;TZID=Europe/Paris:20261017T160000
+DTEND;TZID=Europe/Paris:20261017T190000
+DESCRIPTION:Compétition : Thunderpick World Championship\nÉtape : Playof
+ fs\nFormat : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[DraculaN] Sashi Esport vs MOUZ NXT | Group C
@@ -43,6 +29,41 @@ DTSTART;TZID=Europe/Paris:20261019T170000
 DTEND;TZID=Europe/Paris:20261019T200000
 DESCRIPTION:Compétition : 1win Private Club #2\nÉtape : Playoffs\nFormat
   : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PGL Masters Bucharest] Aurora Gaming vs TheMongolz | Group Stage
+DTSTART;TZID=Europe/Paris:20261024T090000
+DTEND;TZID=Europe/Paris:20261024T120000
+DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
+ rmat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PGL Masters Bucharest] MOUZ vs Liquid | Group Stage
+DTSTART;TZID=Europe/Paris:20261024T120000
+DTEND;TZID=Europe/Paris:20261024T150000
+DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
+ rmat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PGL Masters Bucharest] Spirit vs BetBoom Team | Group Stage
+DTSTART;TZID=Europe/Paris:20261024T120000
+DTEND;TZID=Europe/Paris:20261024T150000
+DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
+ rmat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PGL Masters Bucharest] Vitality vs 9z | Group Stage
+DTSTART;TZID=Europe/Paris:20261024T150000
+DTEND;TZID=Europe/Paris:20261024T180000
+DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
+ rmat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PGL Masters Bucharest] G2 vs Natus Vincere | Group Stage
+DTSTART;TZID=Europe/Paris:20261024T180000
+DTEND;TZID=Europe/Paris:20261024T210000
+DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
+ rmat : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Stake Ranked Episode 5] Astralis vs fnatic | Playoffs
