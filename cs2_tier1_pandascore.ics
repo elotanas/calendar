@@ -3,16 +3,17 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[GLuck Yungstar Series #3] VP.Future vs Black Phoenix | Playoffs
-DTSTART;TZID=Europe/Paris:20261017T110000
-DTEND;TZID=Europe/Paris:20261017T140000
-DESCRIPTION:Compétition : GLuck Yungstar Series #3\nÉtape : Playoffs\nFo
- rmat : BO3\nDonnées : PandaScore
+SUMMARY:[European Pro League Regular] VP.Future 3 vs EAC Extra | Playoffs
+DTSTART;TZID=Europe/Paris:20261018T100000
+DTEND;TZID=Europe/Paris:20261018T130000
+DESCRIPTION:Compétition : European Pro League Regular\nÉtape : Playoffs
+ \nFormat : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Thunderpick World Championship] FURIA vs Aurora Gaming | Playoffs
-DTSTART;TZID=Europe/Paris:20261017T160000
-DTEND;TZID=Europe/Paris:20261017T190000
+SUMMARY:[Thunderpick World Championship] Aurora Gaming vs Team Falcons | P
+ layoffs
+DTSTART;TZID=Europe/Paris:20261018T133000
+DTEND;TZID=Europe/Paris:20261018T163000
 DESCRIPTION:Compétition : Thunderpick World Championship\nÉtape : Playof
  fs\nFormat : BO3\nDonnées : PandaScore
 END:VEVENT
@@ -29,6 +30,14 @@ DTSTART;TZID=Europe/Paris:20261019T170000
 DTEND;TZID=Europe/Paris:20261019T200000
 DESCRIPTION:Compétition : 1win Private Club #2\nÉtape : Playoffs\nFormat
   : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stake Ranked Episode 6: Closed Qualifier] Sangal vs Aurora Young 
+ Blood | Playoffs
+DTSTART;TZID=Europe/Paris:20261020T140000
+DTEND;TZID=Europe/Paris:20261020T170000
+DESCRIPTION:Compétition : Stake Ranked Episode 6: Closed Qualifier\nÉtap
+ e : Playoffs\nFormat : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[PGL Masters Bucharest] Aurora Gaming vs TheMongolz | Group Stage
