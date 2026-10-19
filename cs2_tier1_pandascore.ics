@@ -3,21 +3,6 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[European Pro League Regular] VP.Future 3 vs EAC Extra | Playoffs
-DTSTART;TZID=Europe/Paris:20261018T100000
-DTEND;TZID=Europe/Paris:20261018T130000
-DESCRIPTION:Compétition : European Pro League Regular\nÉtape : Playoffs
- \nFormat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Thunderpick World Championship] Aurora Gaming vs Team Falcons | P
- layoffs
-DTSTART;TZID=Europe/Paris:20261018T133000
-DTEND;TZID=Europe/Paris:20261018T163000
-DESCRIPTION:Compétition : Thunderpick World Championship\nÉtape : Playof
- fs\nFormat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[DraculaN] Sashi Esport vs MOUZ NXT | Group C
 DTSTART;TZID=Europe/Paris:20261019T124500
 DTEND;TZID=Europe/Paris:20261019T141500
@@ -25,11 +10,11 @@ DESCRIPTION:Compétition : DraculaN\nÉtape : Group C\nFormat : BO1\nDonn
  ées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[1win Private Club #2] fnatic vs Liquid | Playoffs
+SUMMARY:[1win Private Club] fnatic vs Liquid | Playoffs
 DTSTART;TZID=Europe/Paris:20261019T170000
 DTEND;TZID=Europe/Paris:20261019T200000
-DESCRIPTION:Compétition : 1win Private Club #2\nÉtape : Playoffs\nFormat
-  : BO3\nDonnées : PandaScore
+DESCRIPTION:Compétition : 1win Private Club\nÉtape : Playoffs\nFormat : 
+ BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Stake Ranked Episode 6: Closed Qualifier] Sangal vs Aurora Young 
