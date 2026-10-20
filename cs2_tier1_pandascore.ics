@@ -3,18 +3,11 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[DraculaN] Sashi Esport vs MOUZ NXT | Group C
-DTSTART;TZID=Europe/Paris:20261019T124500
-DTEND;TZID=Europe/Paris:20261019T141500
-DESCRIPTION:Compétition : DraculaN\nÉtape : Group C\nFormat : BO1\nDonn
+SUMMARY:[DraculaN] FaZe vs ASTRAL | Playoffs
+DTSTART;TZID=Europe/Paris:20261020T130000
+DTEND;TZID=Europe/Paris:20261020T160000
+DESCRIPTION:Compétition : DraculaN\nÉtape : Playoffs\nFormat : BO3\nDonn
  ées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[1win Private Club] fnatic vs Liquid | Playoffs
-DTSTART;TZID=Europe/Paris:20261019T170000
-DTEND;TZID=Europe/Paris:20261019T200000
-DESCRIPTION:Compétition : 1win Private Club\nÉtape : Playoffs\nFormat : 
- BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Stake Ranked Episode 6: Closed Qualifier] Sangal vs Aurora Young 
@@ -23,6 +16,27 @@ DTSTART;TZID=Europe/Paris:20261020T140000
 DTEND;TZID=Europe/Paris:20261020T170000
 DESCRIPTION:Compétition : Stake Ranked Episode 6: Closed Qualifier\nÉtap
  e : Playoffs\nFormat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[1win Private Club] Liquid vs magic | Playoffs
+DTSTART;TZID=Europe/Paris:20261020T140000
+DTEND;TZID=Europe/Paris:20261020T170000
+DESCRIPTION:Compétition : 1win Private Club\nÉtape : Playoffs\nFormat : 
+ BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ESEA Advanced Europe] Spirit HU vs Ryvex | Regular Season
+DTSTART;TZID=Europe/Paris:20261020T203000
+DTEND;TZID=Europe/Paris:20261020T220000
+DESCRIPTION:Compétition : ESEA Advanced Europe\nÉtape : Regular Season\n
+ Format : BO1\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CIS LAN Championship] Virtus.pro vs XMETA | Group B
+DTSTART;TZID=Europe/Paris:20261021T080000
+DTEND;TZID=Europe/Paris:20261021T110000
+DESCRIPTION:Compétition : CIS LAN Championship\nÉtape : Group B\nFormat 
+ : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[PGL Masters Bucharest] Aurora Gaming vs TheMongolz | Group Stage
