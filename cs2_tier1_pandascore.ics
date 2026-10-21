@@ -3,40 +3,18 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[DraculaN] FaZe vs ASTRAL | Playoffs
-DTSTART;TZID=Europe/Paris:20261020T130000
-DTEND;TZID=Europe/Paris:20261020T160000
+SUMMARY:[DraculaN] FaZe vs JiJieHao | Playoffs
+DTSTART;TZID=Europe/Paris:20261021T130000
+DTEND;TZID=Europe/Paris:20261021T160000
 DESCRIPTION:Compétition : DraculaN\nÉtape : Playoffs\nFormat : BO3\nDonn
  ées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Stake Ranked Episode 6: Closed Qualifier] Sangal vs Aurora Young 
- Blood | Playoffs
-DTSTART;TZID=Europe/Paris:20261020T140000
-DTEND;TZID=Europe/Paris:20261020T170000
-DESCRIPTION:Compétition : Stake Ranked Episode 6: Closed Qualifier\nÉtap
- e : Playoffs\nFormat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[1win Private Club] Liquid vs magic | Playoffs
-DTSTART;TZID=Europe/Paris:20261020T140000
-DTEND;TZID=Europe/Paris:20261020T170000
-DESCRIPTION:Compétition : 1win Private Club\nÉtape : Playoffs\nFormat : 
- BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ESEA Advanced Europe] Spirit HU vs Ryvex | Regular Season
-DTSTART;TZID=Europe/Paris:20261020T203000
-DTEND;TZID=Europe/Paris:20261020T220000
-DESCRIPTION:Compétition : ESEA Advanced Europe\nÉtape : Regular Season\n
- Format : BO1\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[CIS LAN Championship] Virtus.pro vs XMETA | Group B
-DTSTART;TZID=Europe/Paris:20261021T080000
-DTEND;TZID=Europe/Paris:20261021T110000
-DESCRIPTION:Compétition : CIS LAN Championship\nÉtape : Group B\nFormat 
- : BO3\nDonnées : PandaScore
+SUMMARY:[DraculaN] Sinners vs Heroic | Playoffs
+DTSTART;TZID=Europe/Paris:20261021T130000
+DTEND;TZID=Europe/Paris:20261021T160000
+DESCRIPTION:Compétition : DraculaN\nÉtape : Playoffs\nFormat : BO3\nDonn
+ ées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[PGL Masters Bucharest] Aurora Gaming vs TheMongolz | Group Stage
@@ -79,5 +57,75 @@ DTSTART;TZID=Europe/Paris:20261027T170000
 DTEND;TZID=Europe/Paris:20261027T200000
 DESCRIPTION:Compétition : Stake Ranked Episode 5\nÉtape : Playoffs\nForm
  at : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IEM Beijing] PARIVISION vs G2 | Group B
+DTSTART;TZID=Europe/Paris:20261102T080000
+DTEND;TZID=Europe/Paris:20261102T110000
+DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
+ nnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IEM Beijing] Aurora Gaming vs Liquid | Group B
+DTSTART;TZID=Europe/Paris:20261102T080000
+DTEND;TZID=Europe/Paris:20261102T110000
+DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
+ nnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IEM Beijing] 9z vs BetBoom Team | Group B
+DTSTART;TZID=Europe/Paris:20261102T080000
+DTEND;TZID=Europe/Paris:20261102T110000
+DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
+ nnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IEM Beijing] MOUZ vs TYLOO | Group B
+DTSTART;TZID=Europe/Paris:20261102T080000
+DTEND;TZID=Europe/Paris:20261102T110000
+DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
+ nnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IEM Beijing] Natus Vincere vs Team Falcons | Group A
+DTSTART;TZID=Europe/Paris:20261102T080000
+DTEND;TZID=Europe/Paris:20261102T110000
+DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group A\nFormat : BO3\nDo
+ nnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IEM Beijing] FURIA vs FaZe | Group A
+DTSTART;TZID=Europe/Paris:20261102T080000
+DTEND;TZID=Europe/Paris:20261102T110000
+DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group A\nFormat : BO3\nDo
+ nnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IEM Beijing] Heroic vs B8 | Group A
+DTSTART;TZID=Europe/Paris:20261102T080000
+DTEND;TZID=Europe/Paris:20261102T110000
+DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group A\nFormat : BO3\nDo
+ nnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[BLAST Rivals] Vitality vs Team Falcons | Group A
+DTSTART;TZID=Europe/Paris:20261111T053000
+DTEND;TZID=Europe/Paris:20261111T083000
+DESCRIPTION:Compétition : BLAST Rivals\nÉtape : Group A\nFormat : BO3\nD
+ onnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[BLAST Rivals] Spirit vs FUT Esports | Group B
+DTSTART;TZID=Europe/Paris:20261111T080000
+DTEND;TZID=Europe/Paris:20261111T110000
+DESCRIPTION:Compétition : BLAST Rivals\nÉtape : Group B\nFormat : BO3\nD
+ onnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[BLAST Rivals] MOUZ vs G2 | Group B
+DTSTART;TZID=Europe/Paris:20261111T103000
+DTEND;TZID=Europe/Paris:20261111T133000
+DESCRIPTION:Compétition : BLAST Rivals\nÉtape : Group B\nFormat : BO3\nD
+ onnées : PandaScore
 END:VEVENT
 END:VCALENDAR
