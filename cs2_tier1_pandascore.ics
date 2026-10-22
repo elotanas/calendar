@@ -3,18 +3,18 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[DraculaN] FaZe vs JiJieHao | Playoffs
-DTSTART;TZID=Europe/Paris:20261021T130000
-DTEND;TZID=Europe/Paris:20261021T160000
+SUMMARY:[DraculaN] BC.Game Esports vs FaZe | Playoffs
+DTSTART;TZID=Europe/Paris:20261022T150000
+DTEND;TZID=Europe/Paris:20261022T180000
 DESCRIPTION:Compétition : DraculaN\nÉtape : Playoffs\nFormat : BO3\nDonn
  ées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[DraculaN] Sinners vs Heroic | Playoffs
-DTSTART;TZID=Europe/Paris:20261021T130000
-DTEND;TZID=Europe/Paris:20261021T160000
-DESCRIPTION:Compétition : DraculaN\nÉtape : Playoffs\nFormat : BO3\nDonn
- ées : PandaScore
+SUMMARY:[CIS LAN Championship] UPGRADE vs Virtus.pro | Playoffs
+DTSTART;TZID=Europe/Paris:20261022T223000
+DTEND;TZID=Europe/Paris:20261023T013000
+DESCRIPTION:Compétition : CIS LAN Championship\nÉtape : Playoffs\nFormat
+  : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[PGL Masters Bucharest] Aurora Gaming vs TheMongolz | Group Stage
@@ -50,6 +50,13 @@ DTSTART;TZID=Europe/Paris:20261024T180000
 DTEND;TZID=Europe/Paris:20261024T210000
 DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
  rmat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Tesla Cup] Alliance vs FaZe | Group A
+DTSTART;TZID=Europe/Paris:20261027T120000
+DTEND;TZID=Europe/Paris:20261027T150000
+DESCRIPTION:Compétition : Tesla Cup\nÉtape : Group A\nFormat : BO3\nDonn
+ ées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Stake Ranked Episode 5] Astralis vs fnatic | Playoffs
