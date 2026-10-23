@@ -3,16 +3,9 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[DraculaN] BC.Game Esports vs FaZe | Playoffs
-DTSTART;TZID=Europe/Paris:20261022T150000
-DTEND;TZID=Europe/Paris:20261022T180000
-DESCRIPTION:Compétition : DraculaN\nÉtape : Playoffs\nFormat : BO3\nDonn
- ées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[CIS LAN Championship] UPGRADE vs Virtus.pro | Playoffs
-DTSTART;TZID=Europe/Paris:20261022T223000
-DTEND;TZID=Europe/Paris:20261023T013000
+SUMMARY:[CIS LAN Championship] K27 vs Virtus.pro | Playoffs
+DTSTART;TZID=Europe/Paris:20261023T150000
+DTEND;TZID=Europe/Paris:20261023T180000
 DESCRIPTION:Compétition : CIS LAN Championship\nÉtape : Playoffs\nFormat
   : BO3\nDonnées : PandaScore
 END:VEVENT
@@ -50,6 +43,22 @@ DTSTART;TZID=Europe/Paris:20261024T180000
 DTEND;TZID=Europe/Paris:20261024T210000
 DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
  rmat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CCT Europe Contenders #10] Aurora Young Blood vs Hermine Esports 
+ Club | Playoffs
+DTSTART;TZID=Europe/Paris:20261024T201500
+DTEND;TZID=Europe/Paris:20261024T231500
+DESCRIPTION:Compétition : CCT Europe Contenders #10\nÉtape : Playoffs\nF
+ ormat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[European Pro League Series 11 Closed Qualifier] Vexar vs MOUZ NXT
+  | Group C
+DTSTART;TZID=Europe/Paris:20261025T100000
+DTEND;TZID=Europe/Paris:20261025T130000
+DESCRIPTION:Compétition : European Pro League Series 11 Closed Qualifier
+ \nÉtape : Group C\nFormat : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Tesla Cup] Alliance vs FaZe | Group A
