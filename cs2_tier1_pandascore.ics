@@ -3,20 +3,6 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[CIS LAN Championship] K27 vs Virtus.pro | Playoffs
-DTSTART;TZID=Europe/Paris:20261023T150000
-DTEND;TZID=Europe/Paris:20261023T180000
-DESCRIPTION:Compétition : CIS LAN Championship\nÉtape : Playoffs\nFormat
-  : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[PGL Masters Bucharest] Aurora Gaming vs TheMongolz | Group Stage
-DTSTART;TZID=Europe/Paris:20261024T090000
-DTEND;TZID=Europe/Paris:20261024T120000
-DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
- rmat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[PGL Masters Bucharest] MOUZ vs Liquid | Group Stage
 DTSTART;TZID=Europe/Paris:20261024T120000
 DTEND;TZID=Europe/Paris:20261024T150000
