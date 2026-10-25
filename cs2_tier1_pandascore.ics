@@ -3,48 +3,40 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[PGL Masters Bucharest] MOUZ vs Liquid | Group Stage
-DTSTART;TZID=Europe/Paris:20261024T120000
-DTEND;TZID=Europe/Paris:20261024T150000
-DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
- rmat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[PGL Masters Bucharest] Spirit vs BetBoom Team | Group Stage
-DTSTART;TZID=Europe/Paris:20261024T120000
-DTEND;TZID=Europe/Paris:20261024T150000
-DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
- rmat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[PGL Masters Bucharest] Vitality vs 9z | Group Stage
-DTSTART;TZID=Europe/Paris:20261024T150000
-DTEND;TZID=Europe/Paris:20261024T180000
-DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
- rmat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[PGL Masters Bucharest] G2 vs Natus Vincere | Group Stage
-DTSTART;TZID=Europe/Paris:20261024T180000
-DTEND;TZID=Europe/Paris:20261024T210000
-DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
- rmat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[CCT Europe Contenders #10] Aurora Young Blood vs Hermine Esports 
- Club | Playoffs
-DTSTART;TZID=Europe/Paris:20261024T201500
-DTEND;TZID=Europe/Paris:20261024T231500
-DESCRIPTION:Compétition : CCT Europe Contenders #10\nÉtape : Playoffs\nF
- ormat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[European Pro League Series 11 Closed Qualifier] Vexar vs MOUZ NXT
+SUMMARY:[European Pro League Series 10 Closed Qualifier] Vexar vs MOUZ NXT
   | Group C
 DTSTART;TZID=Europe/Paris:20261025T100000
 DTEND;TZID=Europe/Paris:20261025T130000
-DESCRIPTION:Compétition : European Pro League Series 11 Closed Qualifier
+DESCRIPTION:Compétition : European Pro League Series 10 Closed Qualifier
  \nÉtape : Group C\nFormat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PGL Masters Bucharest] Vitality vs TheMongolz | Group Stage
+DTSTART;TZID=Europe/Paris:20261025T120000
+DTEND;TZID=Europe/Paris:20261025T150000
+DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
+ rmat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PGL Masters Bucharest] MOUZ vs 9z | Group Stage
+DTSTART;TZID=Europe/Paris:20261025T150000
+DTEND;TZID=Europe/Paris:20261025T180000
+DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
+ rmat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PGL Masters Bucharest] G2 vs Aurora Gaming | Group Stage
+DTSTART;TZID=Europe/Paris:20261025T150000
+DTEND;TZID=Europe/Paris:20261025T180000
+DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
+ rmat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PGL Masters Bucharest] FURIA vs Natus Vincere | Group Stage
+DTSTART;TZID=Europe/Paris:20261025T180000
+DTEND;TZID=Europe/Paris:20261025T210000
+DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
+ rmat : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Tesla Cup] Alliance vs FaZe | Group A
