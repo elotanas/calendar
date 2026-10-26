@@ -147,13 +147,6 @@ DTEND;TZID=Europe/Paris:20270606T200000
 DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[France (F)] France vs Hungary
-DTSTART;TZID=Europe/Paris:20261025T150000
-DTEND;TZID=Europe/Paris:20261025T170000
-DESCRIPTION:Compétition : Int. Friendly Games\, Women\nDonnées fournies 
- par HandballAPI.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[France (F)] France vs Poland
 DTSTART;TZID=Europe/Paris:20261205T180000
 DTEND;TZID=Europe/Paris:20261205T200000
