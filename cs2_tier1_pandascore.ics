@@ -3,37 +3,31 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[Tesla Cup] Alliance vs FaZe | Group A
-DTSTART;TZID=Europe/Paris:20261027T120000
-DTEND;TZID=Europe/Paris:20261027T150000
-DESCRIPTION:Compétition : Tesla Cup\nÉtape : Group A\nFormat : BO3\nDonn
- ées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[PGL Masters Bucharest] Liquid vs Aurora Gaming | Group Stage
-DTSTART;TZID=Europe/Paris:20261027T120000
-DTEND;TZID=Europe/Paris:20261027T150000
-DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
- rmat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[PGL Masters Bucharest] Spirit vs MOUZ | Group Stage
-DTSTART;TZID=Europe/Paris:20261027T150000
-DTEND;TZID=Europe/Paris:20261027T180000
-DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
- rmat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Stake Ranked Episode 5] Astralis vs fnatic | Playoffs
-DTSTART;TZID=Europe/Paris:20261027T170000
-DTEND;TZID=Europe/Paris:20261027T200000
+SUMMARY:[Stake Ranked Episode 5] Astralis vs magic | Playoffs
+DTSTART;TZID=Europe/Paris:20261028T120000
+DTEND;TZID=Europe/Paris:20261028T150000
 DESCRIPTION:Compétition : Stake Ranked Episode 5\nÉtape : Playoffs\nForm
  at : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PGL Masters Bucharest] Vitality vs Natus Vincere | Group Stage
-DTSTART;TZID=Europe/Paris:20261027T180000
-DTEND;TZID=Europe/Paris:20261027T210000
+SUMMARY:[PGL Masters Bucharest] Liquid vs FURIA | Group Stage
+DTSTART;TZID=Europe/Paris:20261028T150000
+DTEND;TZID=Europe/Paris:20261028T180000
+DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
+ rmat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CCT Europe Contenders #10] Aurora Young Blood vs DimoniX Esports 
+ | Playoffs
+DTSTART;TZID=Europe/Paris:20261028T173000
+DTEND;TZID=Europe/Paris:20261028T203000
+DESCRIPTION:Compétition : CCT Europe Contenders #10\nÉtape : Playoffs\nF
+ ormat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PGL Masters Bucharest] Spirit vs Natus Vincere | Group Stage
+DTSTART;TZID=Europe/Paris:20261028T180000
+DTEND;TZID=Europe/Paris:20261028T210000
 DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Group Stage\nFo
  rmat : BO3\nDonnées : PandaScore
 END:VEVENT
