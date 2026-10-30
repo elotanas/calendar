@@ -3,46 +3,31 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[European Pro League Series 10 Closed Qualifier] MOUZ NXT vs eSuba
-  | Group C
-DTSTART;TZID=Europe/Paris:20261029T123000
-DTEND;TZID=Europe/Paris:20261029T153000
-DESCRIPTION:Compétition : European Pro League Series 10 Closed Qualifier
- \nÉtape : Group C\nFormat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Tesla Cup] FaZe vs GamerLegion | Playoffs
-DTSTART;TZID=Europe/Paris:20261029T130000
-DTEND;TZID=Europe/Paris:20261029T160000
-DESCRIPTION:Compétition : Tesla Cup\nÉtape : Playoffs\nFormat : BO3\nDon
- nées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Stake Ranked Episode 5] Inner Circle Esports vs Astralis | Playof
- fs
-DTSTART;TZID=Europe/Paris:20261029T143000
-DTEND;TZID=Europe/Paris:20261029T173000
-DESCRIPTION:Compétition : Stake Ranked Episode 5\nÉtape : Playoffs\nForm
- at : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[PGL Masters Bucharest] Aurora Gaming vs MOUZ | Playoffs
-DTSTART;TZID=Europe/Paris:20261029T150000
-DTEND;TZID=Europe/Paris:20261029T180000
+SUMMARY:[PGL Masters Bucharest] Nemiga vs Vitality | Playoffs
+DTSTART;TZID=Europe/Paris:20261030T130000
+DTEND;TZID=Europe/Paris:20261030T160000
 DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Playoffs\nForma
  t : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CCT Europe Contenders #10] Aurora Young Blood vs SPARX | Playoffs
-DTSTART;TZID=Europe/Paris:20261029T173000
-DTEND;TZID=Europe/Paris:20261029T203000
+SUMMARY:[PGL Masters Bucharest] MOUZ vs FURIA | Playoffs
+DTSTART;TZID=Europe/Paris:20261030T160000
+DTEND;TZID=Europe/Paris:20261030T190000
+DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Playoffs\nForma
+ t : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CCT Europe Contenders #10] Ducks vs Aurora Young Blood | Playoffs
+DTSTART;TZID=Europe/Paris:20261030T173000
+DTEND;TZID=Europe/Paris:20261030T203000
 DESCRIPTION:Compétition : CCT Europe Contenders #10\nÉtape : Playoffs\nF
  ormat : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ESEA Advanced Europe] Spirit HU vs Younglings | Regular Season
-DTSTART;TZID=Europe/Paris:20261029T203000
-DTEND;TZID=Europe/Paris:20261029T220000
+SUMMARY:[ESEA Advanced Europe] The Chosen Few vs Spirit HU | Regular Seaso
+ n
+DTSTART;TZID=Europe/Paris:20261030T180000
+DTEND;TZID=Europe/Paris:20261030T193000
 DESCRIPTION:Compétition : ESEA Advanced Europe\nÉtape : Regular Season\n
  Format : BO1\nDonnées : PandaScore
 END:VEVENT
