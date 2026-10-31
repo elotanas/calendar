@@ -3,45 +3,23 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[PGL Masters Bucharest] Nemiga vs Vitality | Playoffs
-DTSTART;TZID=Europe/Paris:20261030T130000
-DTEND;TZID=Europe/Paris:20261030T160000
-DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Playoffs\nForma
- t : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[PGL Masters Bucharest] MOUZ vs FURIA | Playoffs
-DTSTART;TZID=Europe/Paris:20261030T160000
-DTEND;TZID=Europe/Paris:20261030T190000
-DESCRIPTION:Compétition : PGL Masters Bucharest\nÉtape : Playoffs\nForma
- t : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[CCT Europe Contenders #10] Ducks vs Aurora Young Blood | Playoffs
-DTSTART;TZID=Europe/Paris:20261030T173000
-DTEND;TZID=Europe/Paris:20261030T203000
-DESCRIPTION:Compétition : CCT Europe Contenders #10\nÉtape : Playoffs\nF
- ormat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ESEA Advanced Europe] The Chosen Few vs Spirit HU | Regular Seaso
- n
-DTSTART;TZID=Europe/Paris:20261030T180000
-DTEND;TZID=Europe/Paris:20261030T193000
-DESCRIPTION:Compétition : ESEA Advanced Europe\nÉtape : Regular Season\n
- Format : BO1\nDonnées : PandaScore
+SUMMARY:[IEM Beijing] Heroic vs B8 | Group A
+DTSTART;TZID=Europe/Paris:20261102T030000
+DTEND;TZID=Europe/Paris:20261102T060000
+DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group A\nFormat : BO3\nDo
+ nnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[IEM Beijing] PARIVISION vs G2 | Group B
-DTSTART;TZID=Europe/Paris:20261102T080000
-DTEND;TZID=Europe/Paris:20261102T110000
+DTSTART;TZID=Europe/Paris:20261102T053000
+DTEND;TZID=Europe/Paris:20261102T083000
 DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
  nnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[IEM Beijing] Aurora Gaming vs Liquid | Group B
-DTSTART;TZID=Europe/Paris:20261102T080000
-DTEND;TZID=Europe/Paris:20261102T110000
+DTSTART;TZID=Europe/Paris:20261102T053000
+DTEND;TZID=Europe/Paris:20261102T083000
 DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
  nnées : PandaScore
 END:VEVENT
@@ -53,20 +31,6 @@ DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
  nnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[IEM Beijing] MOUZ vs TYLOO | Group B
-DTSTART;TZID=Europe/Paris:20261102T080000
-DTEND;TZID=Europe/Paris:20261102T110000
-DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
- nnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[IEM Beijing] Natus Vincere vs Team Falcons | Group A
-DTSTART;TZID=Europe/Paris:20261102T080000
-DTEND;TZID=Europe/Paris:20261102T110000
-DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group A\nFormat : BO3\nDo
- nnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[IEM Beijing] FURIA vs FaZe | Group A
 DTSTART;TZID=Europe/Paris:20261102T080000
 DTEND;TZID=Europe/Paris:20261102T110000
@@ -74,9 +38,16 @@ DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group A\nFormat : BO3\nDo
  nnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[IEM Beijing] Heroic vs B8 | Group A
-DTSTART;TZID=Europe/Paris:20261102T080000
-DTEND;TZID=Europe/Paris:20261102T110000
+SUMMARY:[IEM Beijing] MOUZ vs TYLOO | Group B
+DTSTART;TZID=Europe/Paris:20261102T103000
+DTEND;TZID=Europe/Paris:20261102T133000
+DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
+ nnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IEM Beijing] Natus Vincere vs Team Falcons | Group A
+DTSTART;TZID=Europe/Paris:20261102T103000
+DTEND;TZID=Europe/Paris:20261102T133000
 DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group A\nFormat : BO3\nDo
  nnées : PandaScore
 END:VEVENT
