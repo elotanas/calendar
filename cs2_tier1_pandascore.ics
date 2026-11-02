@@ -3,52 +3,38 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[IEM Beijing] Heroic vs B8 | Group A
-DTSTART;TZID=Europe/Paris:20261102T030000
-DTEND;TZID=Europe/Paris:20261102T060000
+SUMMARY:[IEM Beijing] TheMongolz vs Heroic | Group A
+DTSTART;TZID=Europe/Paris:20261103T030000
+DTEND;TZID=Europe/Paris:20261103T060000
 DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group A\nFormat : BO3\nDo
  nnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[IEM Beijing] PARIVISION vs G2 | Group B
-DTSTART;TZID=Europe/Paris:20261102T053000
-DTEND;TZID=Europe/Paris:20261102T083000
+SUMMARY:[IEM Beijing] Aurora Gaming vs G2 | Group B
+DTSTART;TZID=Europe/Paris:20261103T053000
+DTEND;TZID=Europe/Paris:20261103T083000
 DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
  nnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[IEM Beijing] Aurora Gaming vs Liquid | Group B
-DTSTART;TZID=Europe/Paris:20261102T053000
-DTEND;TZID=Europe/Paris:20261102T083000
+SUMMARY:[IEM Beijing] Liquid vs PARIVISION | Group B
+DTSTART;TZID=Europe/Paris:20261103T053000
+DTEND;TZID=Europe/Paris:20261103T083000
 DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
  nnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[IEM Beijing] 9z vs BetBoom Team | Group B
-DTSTART;TZID=Europe/Paris:20261102T080000
-DTEND;TZID=Europe/Paris:20261102T110000
+SUMMARY:[IEM Beijing] 9z vs TYLOO | Group B
+DTSTART;TZID=Europe/Paris:20261103T103000
+DTEND;TZID=Europe/Paris:20261103T133000
 DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
  nnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[IEM Beijing] FURIA vs FaZe | Group A
-DTSTART;TZID=Europe/Paris:20261102T080000
-DTEND;TZID=Europe/Paris:20261102T110000
-DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group A\nFormat : BO3\nDo
- nnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[IEM Beijing] MOUZ vs TYLOO | Group B
-DTSTART;TZID=Europe/Paris:20261102T103000
-DTEND;TZID=Europe/Paris:20261102T133000
+SUMMARY:[IEM Beijing] BetBoom Team vs MOUZ | Group B
+DTSTART;TZID=Europe/Paris:20261103T103000
+DTEND;TZID=Europe/Paris:20261103T133000
 DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
- nnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[IEM Beijing] Natus Vincere vs Team Falcons | Group A
-DTSTART;TZID=Europe/Paris:20261102T103000
-DTEND;TZID=Europe/Paris:20261102T133000
-DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group A\nFormat : BO3\nDo
  nnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
