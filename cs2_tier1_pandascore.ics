@@ -3,58 +3,74 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[IEM Beijing] TheMongolz vs Heroic | Group A
-DTSTART;TZID=Europe/Paris:20261103T030000
-DTEND;TZID=Europe/Paris:20261103T060000
+SUMMARY:[European Pro League Series 10 Closed Qualifier] MOUZ NXT vs megos
+ hort | Play-In
+DTSTART;TZID=Europe/Paris:20261103T101500
+DTEND;TZID=Europe/Paris:20261103T131500
+DESCRIPTION:Compétition : European Pro League Series 10 Closed Qualifier
+ \nÉtape : Play-In\nFormat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ESL Challenger League Europe Cup #10] MOUZ NXT vs los kogutos | G
+ roup D
+DTSTART;TZID=Europe/Paris:20261103T150000
+DTEND;TZID=Europe/Paris:20261103T180000
+DESCRIPTION:Compétition : ESL Challenger League Europe Cup #10\nÉtape : 
+ Group D\nFormat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ESEA Advanced Europe] Y23 vs Spirit HU | Regular Season
+DTSTART;TZID=Europe/Paris:20261103T203000
+DTEND;TZID=Europe/Paris:20261103T220000
+DESCRIPTION:Compétition : ESEA Advanced Europe\nÉtape : Regular Season\n
+ Format : BO1\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IEM Beijing] BetBoom Team vs Aurora Gaming | Group B
+DTSTART;TZID=Europe/Paris:20261104T030000
+DTEND;TZID=Europe/Paris:20261104T060000
+DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
+ nnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IEM Beijing] Liquid vs TYLOO | Group B
+DTSTART;TZID=Europe/Paris:20261104T030000
+DTEND;TZID=Europe/Paris:20261104T060000
+DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
+ nnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[IEM Beijing] Heroic vs Team Falcons | Group A
+DTSTART;TZID=Europe/Paris:20261104T053000
+DTEND;TZID=Europe/Paris:20261104T083000
 DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group A\nFormat : BO3\nDo
  nnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[IEM Beijing] Aurora Gaming vs G2 | Group B
-DTSTART;TZID=Europe/Paris:20261103T053000
-DTEND;TZID=Europe/Paris:20261103T083000
-DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
- nnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[IEM Beijing] Liquid vs PARIVISION | Group B
-DTSTART;TZID=Europe/Paris:20261103T053000
-DTEND;TZID=Europe/Paris:20261103T083000
-DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
- nnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[IEM Beijing] 9z vs TYLOO | Group B
-DTSTART;TZID=Europe/Paris:20261103T103000
-DTEND;TZID=Europe/Paris:20261103T133000
-DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
- nnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[IEM Beijing] BetBoom Team vs MOUZ | Group B
-DTSTART;TZID=Europe/Paris:20261103T103000
-DTEND;TZID=Europe/Paris:20261103T133000
+SUMMARY:[IEM Beijing] MOUZ vs PARIVISION | Group B
+DTSTART;TZID=Europe/Paris:20261104T080000
+DTEND;TZID=Europe/Paris:20261104T110000
 DESCRIPTION:Compétition : IEM Beijing\nÉtape : Group B\nFormat : BO3\nDo
  nnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[BLAST Rivals] Vitality vs Team Falcons | Group A
-DTSTART;TZID=Europe/Paris:20261111T063000
-DTEND;TZID=Europe/Paris:20261111T093000
+DTSTART;TZID=Europe/Paris:20261111T053000
+DTEND;TZID=Europe/Paris:20261111T083000
 DESCRIPTION:Compétition : BLAST Rivals\nÉtape : Group A\nFormat : BO3\nD
  onnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[BLAST Rivals] Spirit vs FUT Esports | Group B
-DTSTART;TZID=Europe/Paris:20261111T090000
-DTEND;TZID=Europe/Paris:20261111T120000
+DTSTART;TZID=Europe/Paris:20261111T080000
+DTEND;TZID=Europe/Paris:20261111T110000
 DESCRIPTION:Compétition : BLAST Rivals\nÉtape : Group B\nFormat : BO3\nD
  onnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[BLAST Rivals] MOUZ vs G2 | Group B
-DTSTART;TZID=Europe/Paris:20261111T113000
-DTEND;TZID=Europe/Paris:20261111T143000
+DTSTART;TZID=Europe/Paris:20261111T103000
+DTEND;TZID=Europe/Paris:20261111T133000
 DESCRIPTION:Compétition : BLAST Rivals\nÉtape : Group B\nFormat : BO3\nD
  onnées : PandaScore
 END:VEVENT
