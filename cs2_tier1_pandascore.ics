@@ -3,6 +3,13 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
+SUMMARY:[IEM Beijing] PARIVISION vs Natus Vincere | Playoffs
+DTSTART;TZID=Europe/Paris:20261106T073000
+DTEND;TZID=Europe/Paris:20261106T103000
+DESCRIPTION:Compétition : IEM Beijing\nÉtape : Playoffs\nFormat : BO3\nD
+ onnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[European Pro League] Sökerorg vs MOUZ NXT | Group C
 DTSTART;TZID=Europe/Paris:20261106T123000
 DTEND;TZID=Europe/Paris:20261106T153000
