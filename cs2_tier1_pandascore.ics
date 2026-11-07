@@ -3,11 +3,11 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[IEM Beijing] TheMongolz vs Natus Vincere | Playoffs
-DTSTART;TZID=Europe/Paris:20261107T073000
-DTEND;TZID=Europe/Paris:20261107T103000
-DESCRIPTION:Compétition : IEM Beijing\nÉtape : Playoffs\nFormat : BO3\nD
- onnées : PandaScore
+SUMMARY:[ESEA Advanced Europe] Rcave vs Spirit HU | Regular Season
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T213000
+DESCRIPTION:Compétition : ESEA Advanced Europe\nÉtape : Regular Season\n
+ Format : BO1\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[European Pro League] Sökerorg vs MOUZ NXT | Group C
