@@ -10,6 +10,14 @@ DESCRIPTION:Compétition : European Pro League\nÉtape : Group C\nFormat :
   BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[ESEA Advanced Europe] Spirit HU vs Fire Flux Esports | Regular Se
+ ason
+DTSTART;TZID=Europe/Paris:20261109T203000
+DTEND;TZID=Europe/Paris:20261109T220000
+DESCRIPTION:Compétition : ESEA Advanced Europe\nÉtape : Regular Season\n
+ Format : BO1\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[BLAST Rivals] Vitality vs Team Falcons | Group A
 DTSTART;TZID=Europe/Paris:20261111T053000
 DTEND;TZID=Europe/Paris:20261111T083000
@@ -31,7 +39,7 @@ DESCRIPTION:Compétition : BLAST Rivals\nÉtape : Group B\nFormat : BO3\nD
  onnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PGL Major Singapore] Liquid vs BC.Game Esports | Stage 1
+SUMMARY:[PGL Major Singapore] Liquid vs GOSH | Stage 1
 DTSTART;TZID=Europe/Paris:20261124T100000
 DTEND;TZID=Europe/Paris:20261124T113000
 DESCRIPTION:Compétition : PGL Major Singapore\nÉtape : Stage 1\nFormat :
