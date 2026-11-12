@@ -3,18 +3,11 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[CCT Europe] Nexus vs MOUZ NXT | Group Stage
-DTSTART;TZID=Europe/Paris:20261111T130000
-DTEND;TZID=Europe/Paris:20261111T160000
-DESCRIPTION:Compétition : CCT Europe\nÉtape : Group Stage\nFormat : BO3
- \nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[BLAST Rivals] FURIA vs Vitality | Group A
-DTSTART;TZID=Europe/Paris:20261112T053000
-DTEND;TZID=Europe/Paris:20261112T083000
-DESCRIPTION:Compétition : BLAST Rivals\nÉtape : Group A\nFormat : BO3\nD
- onnées : PandaScore
+SUMMARY:[ESEA Advanced Europe] Spirit HU vs ENRAGE | Regular Season
+DTSTART;TZID=Europe/Paris:20261112T190000
+DTEND;TZID=Europe/Paris:20261112T203000
+DESCRIPTION:Compétition : ESEA Advanced Europe\nÉtape : Regular Season\n
+ Format : BO1\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Exort Fiesta Closed Qualifier: Series #4] KAMUI vs Aurora Young B
