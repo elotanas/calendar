@@ -3,26 +3,33 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[Exort Fiesta Closed Qualifier: Series #4] KAMUI vs Aurora Young B
- lood | Group A
-DTSTART;TZID=Europe/Paris:20261113T190000
-DTEND;TZID=Europe/Paris:20261113T220000
-DESCRIPTION:Compétition : Exort Fiesta Closed Qualifier: Series #4\nÉtap
- e : Group A\nFormat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[BLAST Rivals] Spirit vs MOUZ | Playoffs
-DTSTART;TZID=Europe/Paris:20261114T090000
-DTEND;TZID=Europe/Paris:20261114T120000
-DESCRIPTION:Compétition : BLAST Rivals\nÉtape : Playoffs\nFormat : BO3\n
- Données : PandaScore
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[CCT Europe] Virtus.pro vs BakS eSports | Playoffs
 DTSTART;TZID=Europe/Paris:20261114T130000
 DTEND;TZID=Europe/Paris:20261114T160000
 DESCRIPTION:Compétition : CCT Europe\nÉtape : Playoffs\nFormat : BO3\nDo
  nnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Exort Fiesta Closed Qualifier: Series #4] Revise vs Aurora Young 
+ Blood | Group A
+DTSTART;TZID=Europe/Paris:20261114T160000
+DTEND;TZID=Europe/Paris:20261114T190000
+DESCRIPTION:Compétition : Exort Fiesta Closed Qualifier: Series #4\nÉtap
+ e : Group A\nFormat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CCT Europe] Walczaki vs MOUZ NXT | Group Stage
+DTSTART;TZID=Europe/Paris:20261115T100000
+DTEND;TZID=Europe/Paris:20261115T130000
+DESCRIPTION:Compétition : CCT Europe\nÉtape : Group Stage\nFormat : BO3
+ \nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[European Pro League] Infinite vs MOUZ NXT | Playoffs
+DTSTART;TZID=Europe/Paris:20261117T123000
+DTEND;TZID=Europe/Paris:20261117T153000
+DESCRIPTION:Compétition : European Pro League\nÉtape : Playoffs\nFormat 
+ : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[PGL Major Singapore] Heroic vs Imperial | Stage 1
