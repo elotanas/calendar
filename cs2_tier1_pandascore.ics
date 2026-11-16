@@ -3,6 +3,14 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
+SUMMARY:[PGL Cluj-Napoca: Closed Qualifier] Heroic vs PARIVISION | Playoff
+ s
+DTSTART;TZID=Europe/Paris:20261116T190000
+DTEND;TZID=Europe/Paris:20261116T220000
+DESCRIPTION:Compétition : PGL Cluj-Napoca: Closed Qualifier\nÉtape : Pla
+ yoffs\nFormat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[European Pro League] Infinite vs MOUZ NXT | Playoffs
 DTSTART;TZID=Europe/Paris:20261117T123000
 DTEND;TZID=Europe/Paris:20261117T153000
