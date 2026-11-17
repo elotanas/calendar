@@ -3,19 +3,20 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[PGL Cluj-Napoca: Closed Qualifier] Heroic vs PARIVISION | Playoff
- s
-DTSTART;TZID=Europe/Paris:20261116T190000
-DTEND;TZID=Europe/Paris:20261116T220000
-DESCRIPTION:Compétition : PGL Cluj-Napoca: Closed Qualifier\nÉtape : Pla
- yoffs\nFormat : BO3\nDonnées : PandaScore
+SUMMARY:[ESEA Advanced Europe] Privateer Gaming vs Spirit HU | Regular Sea
+ son
+DTSTART;TZID=Europe/Paris:20261117T203000
+DTEND;TZID=Europe/Paris:20261117T220000
+DESCRIPTION:Compétition : ESEA Advanced Europe\nÉtape : Regular Season\n
+ Format : BO1\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[European Pro League] Infinite vs MOUZ NXT | Playoffs
-DTSTART;TZID=Europe/Paris:20261117T123000
-DTEND;TZID=Europe/Paris:20261117T153000
-DESCRIPTION:Compétition : European Pro League\nÉtape : Playoffs\nFormat 
- : BO3\nDonnées : PandaScore
+SUMMARY:[CCT Europe Closed Qualifier: Series #15] MOUZ NXT vs INFURITY Gam
+ ing | Group C
+DTSTART;TZID=Europe/Paris:20261121T130000
+DTEND;TZID=Europe/Paris:20261121T160000
+DESCRIPTION:Compétition : CCT Europe Closed Qualifier: Series #15\nÉtape
+  : Group C\nFormat : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[PGL Major Singapore] Heroic vs Imperial | Stage 1
