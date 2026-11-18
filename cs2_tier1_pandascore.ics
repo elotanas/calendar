@@ -3,12 +3,11 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[ESEA Advanced Europe] Privateer Gaming vs Spirit HU | Regular Sea
- son
-DTSTART;TZID=Europe/Paris:20261117T203000
-DTEND;TZID=Europe/Paris:20261117T220000
-DESCRIPTION:Compétition : ESEA Advanced Europe\nÉtape : Regular Season\n
- Format : BO1\nDonnées : PandaScore
+SUMMARY:[European Pro League] WBT vs MOUZ NXT | Playoffs
+DTSTART;TZID=Europe/Paris:20261119T123000
+DTEND;TZID=Europe/Paris:20261119T153000
+DESCRIPTION:Compétition : European Pro League\nÉtape : Playoffs\nFormat 
+ : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[CCT Europe Closed Qualifier: Series #15] MOUZ NXT vs INFURITY Gam
