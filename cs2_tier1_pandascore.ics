@@ -3,19 +3,19 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[European Pro League] WBT vs MOUZ NXT | Playoffs
-DTSTART;TZID=Europe/Paris:20261119T123000
-DTEND;TZID=Europe/Paris:20261119T153000
-DESCRIPTION:Compétition : European Pro League\nÉtape : Playoffs\nFormat 
- : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[CCT Europe Closed Qualifier: Series #15] MOUZ NXT vs INFURITY Gam
  ing | Group C
 DTSTART;TZID=Europe/Paris:20261121T130000
 DTEND;TZID=Europe/Paris:20261121T160000
 DESCRIPTION:Compétition : CCT Europe Closed Qualifier: Series #15\nÉtape
   : Group C\nFormat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[NODWIN Clutch Series] Virtus.pro vs Nice Try | Playoffs
+DTSTART;TZID=Europe/Paris:20261121T130000
+DTEND;TZID=Europe/Paris:20261121T160000
+DESCRIPTION:Compétition : NODWIN Clutch Series\nÉtape : Playoffs\nFormat
+  : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[PGL Major Singapore] Heroic vs Imperial | Stage 1
