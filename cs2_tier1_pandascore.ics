@@ -3,38 +3,54 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[CCT Europe Contenders #11] Diamant Esports vs Young27 | Playoffs
-DTSTART;TZID=Europe/Paris:20261123T200000
-DTEND;TZID=Europe/Paris:20261123T230000
+SUMMARY:[CCT Europe Closed Qualifier: Series #15] MOUZ NXT vs Noir Verse |
+  Play-In
+DTSTART;TZID=Europe/Paris:20261124T190000
+DTEND;TZID=Europe/Paris:20261124T220000
+DESCRIPTION:Compétition : CCT Europe Closed Qualifier: Series #15\nÉtape
+  : Play-In\nFormat : BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CCT Europe Contenders #11] Young27 vs Haze | Playoffs
+DTSTART;TZID=Europe/Paris:20261124T200000
+DTEND;TZID=Europe/Paris:20261124T230000
 DESCRIPTION:Compétition : CCT Europe Contenders #11\nÉtape : Playoffs\nF
  ormat : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PGL Major Singapore] Heroic vs Imperial | Stage 1
-DTSTART;TZID=Europe/Paris:20261124T050000
-DTEND;TZID=Europe/Paris:20261124T063000
+SUMMARY:[PGL Major Singapore] Heroic vs M80 | Stage 1
+DTSTART;TZID=Europe/Paris:20261125T070000
+DTEND;TZID=Europe/Paris:20261125T083000
 DESCRIPTION:Compétition : PGL Major Singapore\nÉtape : Stage 1\nFormat :
   BO1\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PGL Major Singapore] 9z vs Lynn Vision | Stage 1
-DTSTART;TZID=Europe/Paris:20261124T050000
-DTEND;TZID=Europe/Paris:20261124T063000
+SUMMARY:[PGL Major Singapore] PVISION vs FaZe | Stage 1
+DTSTART;TZID=Europe/Paris:20261125T080000
+DTEND;TZID=Europe/Paris:20261125T093000
 DESCRIPTION:Compétition : PGL Major Singapore\nÉtape : Stage 1\nFormat :
   BO1\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PGL Major Singapore] Liquid vs GOSH | Stage 1
-DTSTART;TZID=Europe/Paris:20261124T070000
-DTEND;TZID=Europe/Paris:20261124T083000
+SUMMARY:[PGL Major Singapore] 9z vs DENDELE CS | Stage 1
+DTSTART;TZID=Europe/Paris:20261125T090000
+DTEND;TZID=Europe/Paris:20261125T120000
 DESCRIPTION:Compétition : PGL Major Singapore\nÉtape : Stage 1\nFormat :
-  BO1\nDonnées : PandaScore
+  BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PGL Major Singapore] FaZe vs Wildcard | Stage 1
-DTSTART;TZID=Europe/Paris:20261124T080000
-DTEND;TZID=Europe/Paris:20261124T093000
+SUMMARY:[PGL Major Singapore] NIP vs Liquid | Stage 1
+DTSTART;TZID=Europe/Paris:20261125T113000
+DTEND;TZID=Europe/Paris:20261125T143000
 DESCRIPTION:Compétition : PGL Major Singapore\nÉtape : Stage 1\nFormat :
-  BO1\nDonnées : PandaScore
+  BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CCT Europe Closed Qualifier: Series #16] MOUZ NXT vs MASONIC | Gr
+ oup C
+DTSTART;TZID=Europe/Paris:20261127T100000
+DTEND;TZID=Europe/Paris:20261127T130000
+DESCRIPTION:Compétition : CCT Europe Closed Qualifier: Series #16\nÉtape
+  : Group C\nFormat : BO3\nDonnées : PandaScore
 END:VEVENT
 END:VCALENDAR
