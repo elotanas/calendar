@@ -3,45 +3,30 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[CCT Europe Closed Qualifier: Series #15] MOUZ NXT vs Noir Verse |
-  Play-In
-DTSTART;TZID=Europe/Paris:20261124T190000
-DTEND;TZID=Europe/Paris:20261124T220000
-DESCRIPTION:Compétition : CCT Europe Closed Qualifier: Series #15\nÉtape
-  : Play-In\nFormat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[CCT Europe Contenders #11] Young27 vs Haze | Playoffs
-DTSTART;TZID=Europe/Paris:20261124T200000
-DTEND;TZID=Europe/Paris:20261124T230000
+SUMMARY:[CCT Europe Contenders #11] TTG Esports vs Young27 | Playoffs
+DTSTART;TZID=Europe/Paris:20261125T200000
+DTEND;TZID=Europe/Paris:20261125T230000
 DESCRIPTION:Compétition : CCT Europe Contenders #11\nÉtape : Playoffs\nF
  ormat : BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PGL Major Singapore] Heroic vs M80 | Stage 1
-DTSTART;TZID=Europe/Paris:20261125T070000
-DTEND;TZID=Europe/Paris:20261125T083000
-DESCRIPTION:Compétition : PGL Major Singapore\nÉtape : Stage 1\nFormat :
-  BO1\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[PGL Major Singapore] PVISION vs FaZe | Stage 1
-DTSTART;TZID=Europe/Paris:20261125T080000
-DTEND;TZID=Europe/Paris:20261125T093000
-DESCRIPTION:Compétition : PGL Major Singapore\nÉtape : Stage 1\nFormat :
-  BO1\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[PGL Major Singapore] 9z vs DENDELE CS | Stage 1
-DTSTART;TZID=Europe/Paris:20261125T090000
-DTEND;TZID=Europe/Paris:20261125T120000
+SUMMARY:[PGL Major Singapore] Heroic vs FaZe | Stage 1
+DTSTART;TZID=Europe/Paris:20261126T070000
+DTEND;TZID=Europe/Paris:20261126T100000
 DESCRIPTION:Compétition : PGL Major Singapore\nÉtape : Stage 1\nFormat :
   BO3\nDonnées : PandaScore
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PGL Major Singapore] NIP vs Liquid | Stage 1
-DTSTART;TZID=Europe/Paris:20261125T113000
-DTEND;TZID=Europe/Paris:20261125T143000
+SUMMARY:[PGL Major Singapore] 100 Thieves vs 9z | Stage 1
+DTSTART;TZID=Europe/Paris:20261126T093000
+DTEND;TZID=Europe/Paris:20261126T123000
+DESCRIPTION:Compétition : PGL Major Singapore\nÉtape : Stage 1\nFormat :
+  BO3\nDonnées : PandaScore
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[PGL Major Singapore] Imperial vs Liquid | Stage 1
+DTSTART;TZID=Europe/Paris:20261126T120000
+DTEND;TZID=Europe/Paris:20261126T150000
 DESCRIPTION:Compétition : PGL Major Singapore\nÉtape : Stage 1\nFormat :
   BO3\nDonnées : PandaScore
 END:VEVENT
