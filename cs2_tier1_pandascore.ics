@@ -3,34 +3,6 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[CCT Europe Contenders #11] TTG Esports vs Young27 | Playoffs
-DTSTART;TZID=Europe/Paris:20261125T200000
-DTEND;TZID=Europe/Paris:20261125T230000
-DESCRIPTION:Compétition : CCT Europe Contenders #11\nÉtape : Playoffs\nF
- ormat : BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[PGL Major Singapore] Heroic vs FaZe | Stage 1
-DTSTART;TZID=Europe/Paris:20261126T070000
-DTEND;TZID=Europe/Paris:20261126T100000
-DESCRIPTION:Compétition : PGL Major Singapore\nÉtape : Stage 1\nFormat :
-  BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[PGL Major Singapore] 100 Thieves vs 9z | Stage 1
-DTSTART;TZID=Europe/Paris:20261126T093000
-DTEND;TZID=Europe/Paris:20261126T123000
-DESCRIPTION:Compétition : PGL Major Singapore\nÉtape : Stage 1\nFormat :
-  BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[PGL Major Singapore] Imperial vs Liquid | Stage 1
-DTSTART;TZID=Europe/Paris:20261126T120000
-DTEND;TZID=Europe/Paris:20261126T150000
-DESCRIPTION:Compétition : PGL Major Singapore\nÉtape : Stage 1\nFormat :
-  BO3\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[CCT Europe Closed Qualifier: Series #16] MOUZ NXT vs MASONIC | Gr
  oup C
 DTSTART;TZID=Europe/Paris:20261127T100000
