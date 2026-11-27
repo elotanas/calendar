@@ -40,26 +40,26 @@ DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[France (M)] SG Bietigheim-Metterzimmern vs TVB 1898 Stuttgart
-DTSTART;TZID=Europe/Paris:20270211T180000
-DTEND;TZID=Europe/Paris:20270211T200000
+DTSTART;TZID=Europe/Paris:20270212T190000
+DTEND;TZID=Europe/Paris:20270212T210000
 DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[France (M)] TVB 1898 Stuttgart vs VfL Gummersbach
-DTSTART;TZID=Europe/Paris:20270218T180000
-DTEND;TZID=Europe/Paris:20270218T200000
+DTSTART;TZID=Europe/Paris:20270221T163000
+DTEND;TZID=Europe/Paris:20270221T183000
 DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[France (M)] SG Flensburg Handewitt vs TVB 1898 Stuttgart
-DTSTART;TZID=Europe/Paris:20270225T180000
-DTEND;TZID=Europe/Paris:20270225T200000
+DTSTART;TZID=Europe/Paris:20270226T200000
+DTEND;TZID=Europe/Paris:20270226T220000
 DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[France (M)] TVB 1898 Stuttgart vs TSV Hannover Burgdorf
-DTSTART;TZID=Europe/Paris:20270304T180000
-DTEND;TZID=Europe/Paris:20270304T200000
+DTSTART;TZID=Europe/Paris:20270304T190000
+DTEND;TZID=Europe/Paris:20270304T210000
 DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
 END:VEVENT
 BEGIN:VEVENT
@@ -133,13 +133,6 @@ SUMMARY:[France (M)] Füchse Berlin vs TVB 1898 Stuttgart
 DTSTART;TZID=Europe/Paris:20270606T180000
 DTEND;TZID=Europe/Paris:20270606T200000
 DESCRIPTION:Compétition : Bundesliga\nDonnées fournies par HandballAPI.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[France (F)] Germany vs France
-DTSTART;TZID=Europe/Paris:20261126T193000
-DTEND;TZID=Europe/Paris:20261126T213000
-DESCRIPTION:Compétition : Int. Friendly Games\, Women\nDonnées fournies 
- par HandballAPI.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[France (F)] Germany vs France
