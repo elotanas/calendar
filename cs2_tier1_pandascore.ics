@@ -3,24 +3,11 @@ VERSION:2.0
 PRODID:-//Calendrier CS2 Tier 1//FR
 X-WR-CALNAME:CS2 - Matchs Tier 1
 BEGIN:VEVENT
-SUMMARY:[PGL Major Singapore] G2 vs Liquid | Stage 2
-DTSTART;TZID=Europe/Paris:20261128T060000
-DTEND;TZID=Europe/Paris:20261128T073000
-DESCRIPTION:Compétition : PGL Major Singapore\nÉtape : Stage 2\nFormat :
-  BO1\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[PGL Major Singapore] Astralis vs Imperial | Stage 2
-DTSTART;TZID=Europe/Paris:20261128T070000
-DTEND;TZID=Europe/Paris:20261128T083000
-DESCRIPTION:Compétition : PGL Major Singapore\nÉtape : Stage 2\nFormat :
-  BO1\nDonnées : PandaScore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[PGL Major Singapore] Natus Vincere vs PARIVISION | Stage 2
-DTSTART;TZID=Europe/Paris:20261128T070000
-DTEND;TZID=Europe/Paris:20261128T083000
-DESCRIPTION:Compétition : PGL Major Singapore\nÉtape : Stage 2\nFormat :
-  BO1\nDonnées : PandaScore
+SUMMARY:[CCT Europe Closed Qualifier: Series #16] MOUZ NXT vs Honvéd | Gr
+ oup C
+DTSTART;TZID=Europe/Paris:20261128T160000
+DTEND;TZID=Europe/Paris:20261128T190000
+DESCRIPTION:Compétition : CCT Europe Closed Qualifier: Series #16\nÉtape
+  : Group C\nFormat : BO3\nDonnées : PandaScore
 END:VEVENT
 END:VCALENDAR
